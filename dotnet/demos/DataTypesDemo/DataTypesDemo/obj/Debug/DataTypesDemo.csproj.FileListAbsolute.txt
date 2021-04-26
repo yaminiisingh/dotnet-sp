@@ -1,0 +1,1 @@
+G:\DotNet\Programs\Console Apps\DataTypesDemo\DataTypesDemo\bin\Debug\DataTypesDemo.exe.config
